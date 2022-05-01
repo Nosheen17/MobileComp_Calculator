@@ -18,7 +18,7 @@
         <TextView
             android:id="@+id/resultTextView"
             android:layout_width="415dp"
-            android:layout_height="65dp"
+            android:layout_height="80dp"
             android:background="#A3A1A1"
             android:textAlignment="viewEnd"
             android:textSize="34sp" />
